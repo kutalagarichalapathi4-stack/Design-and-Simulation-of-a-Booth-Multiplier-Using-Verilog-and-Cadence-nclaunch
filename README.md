@@ -33,7 +33,6 @@ Booth’s multiplication algorithm is an efficient way to perform **signed integ
 
 ![image](https://github.com/user-attachments/assets/a34dd25e-3043-4243-81a5-567165d3f4b2)
 
-
 ## Verilog Code for Booth Multiplier
 ```verilog
 module booth_multiplier(
